@@ -3,33 +3,33 @@ import { Calendar, Heart, MapPin } from "lucide-react";
 const memories = [
   {
     id: 1,
-    title: "The Day We Met",
+    title: "The Day I Added U On Snapchat",
     date: "The Beginning",
-    description: "Little did I know that meeting you would change my life forever. From strangers to soulmates, our friendship was written in the stars.",
+    description: "Back then, I didn’t realize I was about to meet someone who’d mean so much to me.",
     icon: Heart,
     color: "primary"
   },
   {
     id: 2,
-    title: "First Adventure Together",
+    title: "The First Time I Texted You There",
     date: "Early Days",
-    description: "Remember our first spontaneous adventure? Your infectious laughter and fearless spirit showed me what it means to truly live in the moment.",
+    description: "I still remember typing out that first message, not knowing if you’d even reply… 👀",
     icon: MapPin,
     color: "secondary"
   },
   {
     id: 3,
-    title: "The Late Night Conversations",
+    title: "The First Call",
     date: "Always",
-    description: "Those endless 2 AM calls where we shared our deepest thoughts, wildest dreams, and biggest fears. You taught me that true friendship has no curfew.",
+    description: "I was nervous at first, wondering if it’d be awkward… but the moment I heard your voice, it felt like I’d known you forever.",
     icon: Heart,
     color: "accent"
   },
   {
     id: 4,
-    title: "Through Thick and Thin",
+    title: "The Reels Era",
     date: "Forever",
-    description: "When life got tough, you were my anchor. Your unwavering support and belief in me kept me going when I couldn't believe in myself.",
+    description: "From cute animals to random memes, sharing reels became our daily ritual 🐒✨",
     icon: Heart,
     color: "warm"
   }
