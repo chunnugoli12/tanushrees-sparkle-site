@@ -24,16 +24,19 @@ const LetterSection = () => {
 
   const letterText = `Dear Tanushree,
 
-Where do I even begin? You are not just my best friend – you are my chosen family, my partner in crime, and the person who makes every ordinary day feel extraordinary.
+I don’t even know where to begin — you’re honestly one of the cutest people I’ve ever met 💙. Your smile, your expressions, even the way you talk… it all makes everything feel lighter and happier.
 
-Your kindness radiates like sunshine, warming everyone around you. Your humor has gotten me through the darkest days, and your loyalty is unwavering. You have this incredible gift of making people feel seen, heard, and loved.
+And your voice… oh my god, it’s the kind of voice that can instantly cheer me up no matter what mood I’m in 🎶. Soft, sweet, and honestly just too cute to handle.
 
-I am so grateful for every laugh we've shared, every adventure we've embarked on, and every moment you've stood by my side. You are truly one of a kind, and I feel so lucky to call you my best friend.
+But it’s not just that — you’re also one of the kindest people I know. You care so much about the people around you, and I’m so grateful to be on the receiving end of that kindness.
 
-Thank you for being exactly who you are – beautiful, brilliant, and absolutely amazing.
+(And yes… I can’t forget to mention your slim figure and that big forehead of yours 😏😂. Don’t worry, it’s one of the things that makes you, you, and I wouldn’t change it for the world!)
 
-With all my love,
-Your Forever Friend 💙`;
+At the end of the day, I just want to say I’m really, really happy to have you in my life. You’re my best friend, my partner in laughter, my safe place, and one of the most special people I’ll ever know.
+
+Thank you for being you. 💫
+
+With love & endless appreciation`;
 
   return (
     <section id="letter-section" className="py-20 px-4 bg-gradient-card">
