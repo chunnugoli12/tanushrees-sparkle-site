@@ -117,7 +117,7 @@ const FinaleSection = () => {
 
         <div className="mt-16 pt-12 border-t border-primary/20">
           <p className="font-playful text-lg text-muted-foreground">
-            Made with 💕 for the most incredible friend in the universe
+            Made with 💕 By Shivansh for the most incredible friend in the universe
           </p>
         </div>
       </div>
