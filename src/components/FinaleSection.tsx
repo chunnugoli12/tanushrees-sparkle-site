@@ -71,7 +71,7 @@ const FinaleSection = () => {
           Thank You, Tanushree
         </h2>
         
-        <p className="text-2xl md:text-3xl mb-12 text-secondary font-medium leading-relaxed max-w-3xl mx-auto">
+        <p className="text-2xl md:text-3xl mb-12 text-primary font-medium leading-relaxed max-w-3xl mx-auto">
           For being the most amazing friend anyone could ask for 💙
         </p>
 
