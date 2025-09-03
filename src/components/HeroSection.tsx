@@ -17,15 +17,15 @@ const HeroSection = () => {
 
       {/* Main Content */}
       <div className="text-center z-10 max-w-4xl mx-auto">
-        <h1 className="font-playful text-6xl md:text-8xl mb-6 text-primary pulse-glow">
-          To My Best Friend
+        <h1 className="font-playful text-6xl md:text-8xl mb-6 text-secondary pulse-glow">
+          To My Friend
         </h1>
         <h2 className="font-playful text-4xl md:text-6xl mb-8 text-secondary">
           Tanushree 💫
         </h2>
         
         <p className="text-xl md:text-2xl mb-12 text-foreground/80 font-medium max-w-2xl mx-auto leading-relaxed">
-          Thank you for being the sunshine in my life, the laughter in my days, 
+          Thank you for being present in my life, the laughter in my days, 
           and the most incredible friend anyone could ask for.
         </p>
 
